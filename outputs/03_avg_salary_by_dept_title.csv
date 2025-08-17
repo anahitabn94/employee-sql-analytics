@@ -1,0 +1,46 @@
+dept_name,title,avg_salary
+"Customer Service","Senior Engineer",71224
+"Customer Service","Senior Staff",69919
+"Customer Service","Technique Leader",66932
+"Customer Service",Engineer,59585
+"Customer Service","Assistant Engineer",59025
+"Customer Service",Manager,58745
+"Customer Service",Staff,57022
+Development,Manager,74510
+Development,"Senior Engineer",70965
+Development,"Senior Staff",68528
+Development,"Technique Leader",67865
+Development,Engineer,59808
+Development,"Assistant Engineer",57670
+Development,Staff,55878
+Finance,Manager,83457
+Finance,"Senior Staff",81866
+Finance,Staff,67921
+"Human Resources","Senior Staff",66958
+"Human Resources",Manager,65400
+"Human Resources",Staff,53755
+Marketing,Manager,106491
+Marketing,"Senior Staff",83255
+Marketing,Staff,69678
+Production,"Senior Engineer",71200
+Production,"Senior Staff",68759
+Production,"Technique Leader",67679
+Production,Engineer,59996
+Production,"Assistant Engineer",57412
+Production,Manager,56654
+Production,Staff,55477
+"Quality Management",Manager,72876
+"Quality Management","Senior Engineer",68743
+"Quality Management","Technique Leader",65291
+"Quality Management",Engineer,57236
+"Quality Management","Assistant Engineer",55461
+Research,Manager,79393
+Research,"Senior Staff",71187
+Research,"Senior Engineer",70668
+Research,"Technique Leader",66061
+Research,Engineer,60417
+Research,"Assistant Engineer",58622
+Research,Staff,57994
+Sales,Manager,101987
+Sales,"Senior Staff",92000
+Sales,Staff,78691

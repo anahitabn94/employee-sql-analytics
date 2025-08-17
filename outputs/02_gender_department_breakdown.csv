@@ -1,0 +1,19 @@
+dept_name,gender,employee_count
+"Customer Service",M,14132
+"Customer Service",F,9448
+Development,M,51449
+Development,F,34258
+Finance,M,10331
+Finance,F,7015
+"Human Resources",M,10711
+"Human Resources",F,7075
+Marketing,M,12174
+Marketing,F,8037
+Production,M,43936
+Production,F,29549
+"Quality Management",M,12039
+"Quality Management",F,8078
+Research,M,12687
+Research,F,8439
+Sales,M,31391
+Sales,F,20854

@@ -1,0 +1,37 @@
+dept_name,status,gender,employee_count,avg_tenure_years
+"Customer Service",Active,M,10562,31
+"Customer Service",Active,F,7007,31
+"Customer Service",Left,M,3570,4
+"Customer Service",Left,F,2441,4
+Development,Active,M,36853,33
+Development,Active,F,24533,33
+Development,Left,M,14596,5
+Development,Left,F,9725,5
+Finance,Active,M,7423,33
+Finance,Active,F,5014,33
+Finance,Left,M,2908,5
+Finance,Left,F,2001,5
+"Human Resources",Active,M,7751,33
+"Human Resources",Active,F,5147,33
+"Human Resources",Left,M,2960,5
+"Human Resources",Left,F,1928,4
+Marketing,Active,M,8978,32
+Marketing,Active,F,5864,32
+Marketing,Left,M,3196,4
+Marketing,Left,F,2173,4
+Production,Active,M,31911,32
+Production,Active,F,21393,32
+Production,Left,M,12025,4
+Production,Left,F,8156,5
+"Quality Management",Active,M,8674,32
+"Quality Management",Active,F,5872,32
+"Quality Management",Left,M,3365,4
+"Quality Management",Left,F,2206,4
+Research,Active,M,9260,32
+Research,Active,F,6181,32
+Research,Left,M,3427,4
+Research,Left,F,2258,4
+Sales,Active,M,22702,33
+Sales,Active,F,14999,33
+Sales,Left,M,8689,5
+Sales,Left,F,5855,5
